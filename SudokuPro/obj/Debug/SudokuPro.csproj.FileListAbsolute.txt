@@ -1,0 +1,10 @@
+C:\Users\posy2\source\repos\SudokuPro\SudokuPro\bin\Debug\SudokuPro.exe.config
+C:\Users\posy2\source\repos\SudokuPro\SudokuPro\bin\Debug\SudokuPro.exe
+C:\Users\posy2\source\repos\SudokuPro\SudokuPro\bin\Debug\SudokuPro.pdb
+C:\Users\posy2\source\repos\SudokuPro\SudokuPro\obj\Debug\SudokuPro.csprojAssemblyReference.cache
+C:\Users\posy2\source\repos\SudokuPro\SudokuPro\obj\Debug\SudokuPro.Form1.resources
+C:\Users\posy2\source\repos\SudokuPro\SudokuPro\obj\Debug\SudokuPro.Properties.Resources.resources
+C:\Users\posy2\source\repos\SudokuPro\SudokuPro\obj\Debug\SudokuPro.csproj.GenerateResource.cache
+C:\Users\posy2\source\repos\SudokuPro\SudokuPro\obj\Debug\SudokuPro.csproj.CoreCompileInputs.cache
+C:\Users\posy2\source\repos\SudokuPro\SudokuPro\obj\Debug\SudokuPro.exe
+C:\Users\posy2\source\repos\SudokuPro\SudokuPro\obj\Debug\SudokuPro.pdb
